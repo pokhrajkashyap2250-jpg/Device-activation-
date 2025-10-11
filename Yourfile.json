@@ -14,13 +14,7 @@
     {
         "device_id": "eb38db9ba488eb1d",
         "key": "MENKA12",
-        "expirydate": "10-10-2028",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f40dc57bdac17efd",
-        "key": "RAAJBHAI12",
-        "expirydate": "09-10-2025",
+        "expirydate": "10-12-2025",
         "Allowoffline": false
-    }
+    },
 ]
