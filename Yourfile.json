@@ -1,4 +1,4 @@
-[
+nm[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -13,7 +13,7 @@
     },
     {
         "device_id": "eb38db9ba488eb1d",
-        "key": "raaj",
+        "key": "1234",
         "expirydate": "19-08-2029",
         "Allowoffline": true
     },
