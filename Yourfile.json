@@ -29,5 +29,11 @@
         "expirydate": "19-08-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c169049e5bb8b411",
+        "key": "cgmovie",
+        "expirydate": "19-08-2026",
+        "Allowoffline": true
+    },
     
 ]
