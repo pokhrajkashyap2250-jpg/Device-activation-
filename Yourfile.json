@@ -53,5 +53,11 @@
         "expirydate": "19-08-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a1c0b70966b02afb",
+        "key": "CG05",
+        "expirydate": "19-08-2026",
+        "Allowoffline": true
+    },
     
 ]
